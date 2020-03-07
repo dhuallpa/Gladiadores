@@ -1,0 +1,8 @@
+import wollok.game.*
+import juego.*
+import objects.*
+import gladiadores.*
+program gladiadores {
+    juego.inicio()
+	game.start()
+}
