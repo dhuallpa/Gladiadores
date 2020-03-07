@@ -1,6 +1,6 @@
 import wollok.game.*
 import juego.*
-
+// oas
 object atacar {
 
 	method image() = "ataque1.png"
